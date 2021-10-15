@@ -64,8 +64,8 @@ The notebook of project is divided on parts that are :
 3. Final Output Image :
 
 <p align="center">
-    <img src="static/output_img.png" alt="input"/>
-    <img src="static/output_img.png" alt="style"/>
+    <img src="static/input_img.png" alt="input"/>
+    <img src="static/style_image.png" alt="style"/>
 </p>
 <p align="center">
    <img src="static/output_img.png" alt="output"/>
