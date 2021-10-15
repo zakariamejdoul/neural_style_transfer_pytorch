@@ -65,6 +65,9 @@ The notebook of project is divided on parts that are :
 
 ![picture alt](static/input_img.png "input")  ![picture alt](static/style_image.png "style")
 <br>![picture alt](static/output_img.png "output")
+<p align="center">
+   <img src="static/output_img.png" alt="output"/>
+</p>
 
 ## Resources
 * [A Neural Algorithm of Artistic Style - Leon A. Gatys, <br>Alexander S. Ecker, Matthias Bethge](https://arxiv.org/pdf/1508.06576.pdf)
